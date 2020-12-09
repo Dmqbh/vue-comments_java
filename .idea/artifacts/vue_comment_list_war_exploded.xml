@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="vue-comment-list:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/vue_comment_list_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="vue-comment-list/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="vue-comment-list" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
